@@ -1,5 +1,12 @@
 # GHackathon - 4ByFour
-A HR Management System
+A HR Management System - HRExcess
+- Read, Add, and Remove Employee Details
+- Monitor Employee Attendance Log
+- Facilates Employee Leave Requests
+- Provides an organized view of employees within their respective departments
+- Manages and tracks employee benefits
+- Streamlines Job Application Requests
+- Automation of Drive Links to PDF
 
 # Link for AppSheet
 https://www.appsheet.com/start/bb43eab3-d5c7-458b-9706-716119c1bf16
